@@ -337,3 +337,5 @@ items img:hover {
   cursor:pointer;
   background: transparent;
   text-decoration:none;
+  color:#efefef;
+}
